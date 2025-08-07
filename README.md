@@ -1,4 +1,4 @@
-# 📊 Análise de Evasão de Clientes - Telecom
+# 📊 Análise de Evasão de Clientes - Telecom X - Parte 2
 
 Este projeto tem como objetivo analisar os fatores que influenciam a evasão de clientes (churn) de uma empresa do setor de telecomunicações, utilizando técnicas de ciência de dados e machine learning.
 
