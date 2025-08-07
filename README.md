@@ -51,5 +51,4 @@ Este projeto tem como objetivo analisar os fatores que influenciam a evasão de 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
-   cd nome-do-repo
+   git clone https://github.com/spaamelaamaro/Challenge_TelecomX_parte2
